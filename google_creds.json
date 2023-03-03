@@ -1,0 +1,16 @@
+{
+    "web": {
+        "client_id": "839551006337-pvl8ejpv0hhkc4j21aq4gjj8su4bbl1n.apps.googleusercontent.com",
+        "project_id": "calendar-tutorial-379402",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "https://5afd-103-92-103-134.in.ngrok.io/rest/v1/calendar/redirect"
+        ],
+        "javascript_origins": [
+            "http://127.0.0.1:8000"
+        ]
+    }
+}
