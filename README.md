@@ -1,3 +1,3 @@
 # Django
 
-#Google Calendar
+#Google Calendar API intergration with Django with Authorization
